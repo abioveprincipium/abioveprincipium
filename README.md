@@ -6,6 +6,9 @@
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/-white?logo=discord&logoColor=purple)](abioveprincipium#5863) [![Instagram](https://img.shields.io/badge/-white?logo=Instagram&logoColor=purple)](https://instagram.com/https://www.instagram.com/ab_iove_principium_/) [![LinkedIn Learning](https://img.shields.io/badge/LinkedIn-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=purple)](https://pl.linkedin.com/in/alicja-gradys)
 
+Wanna know more about projects? chceck my website: 
+## https://abioveprincipium.github.io
+
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/%20C++%20-white?%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=purple)
 ![LaTeX](https://img.shields.io/badge/%20LaTeX%20-white?%2300599C.svg?style=for-the-badge&logo=latex&logoColor=purple)
